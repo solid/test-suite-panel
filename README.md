@@ -2,7 +2,7 @@
 
 The mission of the Test Suite Panel as part of the W3C Solid Community Group (CG) is to help software implementers conform to Solid Technical Reports (TR), share findings to advance TRs, and support the communication of implementation reports.
 
-The charter for this panel is under consideration.
+The [charter](https://github.com/solid/process/pull/288) for this panel is under consideration.
 
 ## Work Items
 
