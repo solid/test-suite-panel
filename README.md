@@ -10,6 +10,7 @@ The work items in the following table are carried over from prior work in the CG
 
 |Work Item|Repository|Expected Completion|
 |-|-|-|
+|[Solid QA](https://solidproject.org/ED/qa)|https://github.com/solid/specification|TBD|
 |[Test Suite](https://github.com/solid-contrib/test-suite)|https://github.com/solid-contrib/test-suite|TBD|
 |[Specification Tests](https://solid-contrib.github.io/specification-tests/)|https://github.com/solid-contrib/specification-tests|TBD|
 
